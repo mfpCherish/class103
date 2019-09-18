@@ -44,8 +44,8 @@ public class SDETest{
     }
 	
 	@Test
+
 	public void fun05(){
         System.out.println("hello 05"));
     }
-
 }
