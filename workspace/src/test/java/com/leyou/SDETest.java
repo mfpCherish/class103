@@ -42,5 +42,10 @@ public class SDETest{
         personList.forEach(person ->
                 System.out.println(person));
     }
+	
+	@Test
+	public void fun02(){
+        System.out.println("hello 02"));
+    }
 
 }
